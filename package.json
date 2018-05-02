@@ -1,0 +1,22 @@
+{
+  "name": "vue-i18n",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avengang/vue-i18n.git"
+  },
+  "keywords": [
+    "vue-i18n"
+  ],
+  "author": "avengang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avengang/vue-i18n/issues"
+  },
+  "homepage": "https://github.com/avengang/vue-i18n#readme"
+}
